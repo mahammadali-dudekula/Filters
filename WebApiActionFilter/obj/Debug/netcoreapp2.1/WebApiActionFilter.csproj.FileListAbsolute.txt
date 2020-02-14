@@ -1,0 +1,16 @@
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\bin\Debug\netcoreapp2.1\WebApiActionFilter.deps.json
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\bin\Debug\netcoreapp2.1\WebApiActionFilter.runtimeconfig.json
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\bin\Debug\netcoreapp2.1\WebApiActionFilter.runtimeconfig.dev.json
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\bin\Debug\netcoreapp2.1\WebApiActionFilter.dll
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\obj\Debug\netcoreapp2.1\WebApiActionFilter.csprojAssemblyReference.cache
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\obj\Debug\netcoreapp2.1\WebApiActionFilter.RazorAssemblyInfo.cache
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\obj\Debug\netcoreapp2.1\WebApiActionFilter.RazorAssemblyInfo.cs
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\obj\Debug\netcoreapp2.1\WebApiActionFilter.AssemblyInfoInputs.cache
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\obj\Debug\netcoreapp2.1\WebApiActionFilter.AssemblyInfo.cs
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\obj\Debug\netcoreapp2.1\WebApiActionFilter.RazorTargetAssemblyInfo.cache
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\bin\Debug\netcoreapp2.1\WebApiActionFilter.pdb
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\obj\Debug\netcoreapp2.1\WebApiActionFilter.dll
+C:\Users\ali\source\repos\WebApiActionFilter\WebApiActionFilter\obj\Debug\netcoreapp2.1\WebApiActionFilter.pdb
